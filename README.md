@@ -1,6 +1,6 @@
 # clj-bin
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to explore octet-based data streams.  Like [ccnb](http://www.ccnx.org/documentation/protocol/ccnx-protocol-2/ccnx-binary-encoding-ccnb/) for example.
 
 ## Usage
 
