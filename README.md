@@ -1,6 +1,13 @@
 # clj-bin
 
-A Clojure library designed to explore octet-based data streams.  Like [ccnb](http://www.ccnx.org/documentation/protocol/ccnx-protocol-2/ccnx-binary-encoding-ccnb/) for example.
+A Clojure library designed to explore octet-based data streams.
+
+- Like [ccnb](http://www.ccnx.org/documentation/protocol/ccnx-protocol-2/ccnx-binary-encoding-ccnb/) for example.
+
+Using:
+- ztellman/vertigo
+- ztellman/glauss
+- clojurewerkz/serialism
 
 ## CCNx
 
