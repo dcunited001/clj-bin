@@ -8,4 +8,4 @@
     [vertigo "0.1.0-SNAPSHOT"]
     [gloss "0.2.2-rc1"]
     [aleph "0.3.0-SNAPSHOT"]
-    [clojurewerkz/serialism "1.1.0"]])
+    [clojurewerkz/serialism "1.1.0-SNAPSHOT"]])
